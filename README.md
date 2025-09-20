@@ -45,7 +45,8 @@ how to train a car price prediction model then this project is for you.
 - **Feature importance** for tree-based models.  
 
 # How to Run
-1. Run the script:
+1.Dataset:car data.csv
+2.Run the script:
 ```bash
 python task_3.py
 
